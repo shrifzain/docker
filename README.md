@@ -17,3 +17,6 @@ To get the project up and running on your local machine, follow these steps:
 2. **build:**
    ```
    docker-compose bild 
+2. **Run:**
+   ```
+   docker-compose up 
