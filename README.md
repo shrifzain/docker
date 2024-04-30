@@ -15,4 +15,5 @@ To get the project up and running on your local machine, follow these steps:
    git clone https://github.com/yourusername/3tier-web.git
    cd 3tier-web
 2. **build:**
-   ```docker-compose bild
+   ```
+   docker-compose bild 
